@@ -1,2 +1,2 @@
 #CHAI
-CHAI 2
+Wiko T10
